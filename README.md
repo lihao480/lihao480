@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lihao480
+- 👋 Hi, I’m @lihao480, I'm a student in New York
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on ...
