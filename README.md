@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ：lihaozhuzhuxia@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She
 
 <!---
 lihao480/lihao480 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
